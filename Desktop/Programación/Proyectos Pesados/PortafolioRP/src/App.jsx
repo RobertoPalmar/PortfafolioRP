@@ -31,7 +31,7 @@ function App() {
           <h3 className='m-0 fw-nor'>Programador FullStack</h3>
         </div>
         <Button
-          href='../public/files/Roberto Palmar CV.pdf'
+          href='../public/files/Roberto Palmar CV 2023.pdf'
           download="Roberto Palmar CV.pdf"
           className='fw-bold'
           variant='outline-secondary'
